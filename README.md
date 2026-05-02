@@ -4,7 +4,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 Designed as a Portfolio project to highlight industry best practices in Data engineering and analytics. 
 
 ---------------------------------------------------------
-Project Requirements: 
+**Project Requirements:** \n 
 •	Building a Data Warehouse (Data Engineering). 
 Objective:  Develop a Modern Data Warehouse using SQL server to consolidate Sales data which enables typical reporting and informed decision making. 
 Specification: 
